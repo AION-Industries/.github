@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="AION Technologies" width="400" />
+</p>
+
 # AION TECHNOLOGIES
 
 *Shaping a New Era.*
