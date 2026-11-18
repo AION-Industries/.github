@@ -42,5 +42,5 @@ Our public projects and releases will be introduced here as they become ready fo
 ---
 
 <p align="center">
-  <strong>AION</strong> &nbsp;·&nbsp; <em>Shaping a New Era.</em>
+  <strong>AION</strong> &nbsp;&middot;&nbsp; <em>Shaping a New Era.</em>
 </p>
