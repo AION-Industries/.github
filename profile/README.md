@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="./logo.png" alt="AION Technologies" width="400" />
+  <img src="./logo.png" alt="AION Technologies" width="320" />
 </p>
 
-# AION TECHNOLOGIES
+<h1 align="center">AION TECHNOLOGIES</h1>
 
-*Shaping a New Era.*
+<p align="center">
+  <em>Shaping a New Era.</em>
+</p>
 
-AION is an independent technology initiative focused on designing and building software, AI-powered tools, and thoughtfully engineered digital products.
+<p align="center">
+  AION is an independent technology initiative focused on designing and building software, AI-powered tools, and thoughtfully engineered digital products.
+</p>
+
+---
 
 ## Our Focus
 
@@ -15,14 +21,21 @@ AION is an independent technology initiative focused on designing and building s
 - Developer Tools
 - Digital Products and Experiences
 
+---
+
 ## Our Philosophy
 
-We believe technology should be thoughtfully engineered, purposeful, reliable, and designed to create meaningful impact.
+> We believe technology should be thoughtfully engineered, purposeful, reliable, and designed to create meaningful impact.
+
+---
 
 ## Our Projects
 
 Our public projects and releases will be introduced here as they become ready for publication.
 
-## AION
+---
 
-Shaping a New Era.
+<p align="center">
+  <strong>AION</strong><br />
+  <em>Shaping a New Era.</em>
+</p>
